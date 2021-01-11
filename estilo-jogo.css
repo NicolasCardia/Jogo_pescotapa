@@ -1,0 +1,41 @@
+body{
+/*    background-image:url("./inicio.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;     
+    background-position: center;     
+    background-attachment: fixed;     
+    width: 100%;*/
+    background-color:black;
+}
+#peganome
+{
+    margin-bottom:10px;
+}
+#saudacao
+{
+    width:300px;
+    font-size:1em;
+    color:white;
+    font-weight: bold;
+}
+.tamanho-de-imagens
+{
+    padding-top:10px;
+    width:240px;
+    cursor:pointer;
+    
+}
+#imagem-jogo{
+    width:100%;
+}
+.botao
+{
+    background:yellow;
+    color:black;
+    border-radius:16px;
+    outline-style: none;
+}
+#saudacao button
+{
+    margin-right:10px;
+}
